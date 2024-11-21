@@ -36,20 +36,6 @@
 - **Kid-Friendly Design**: Bright colors, gradients, and playful icons tailored for young children and their parents.
 - **Intuitive Navigation**: Easy access to all features with a clean and organized layout.
 
-## Screenshots
-
-![Home Screen](screenshots/home_screen.png)
-*Home screen with navigation to key features.*
-
-![Activity Calendar](screenshots/activity_calendar.png)
-*Weekly activity calendar showcasing various educational activities.*
-
-![Progress Tracker](screenshots/progress_tracker.png)
-*Progress tracker with editable milestones.*
-
-![Parent Tips](screenshots/parent_tips.png)
-*Daily parenting tips and articles.*
-
 ## Getting Started
 
 ### Prerequisites
@@ -61,7 +47,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/spacECE_ECE_App.git
+   git clone https://github.com/IKartiKI/EarlyChildhoodLearning.git
    cd spacECE_ECE_App
 2. **Install Dependies**
    ```bash
@@ -77,19 +63,20 @@
 ## Usage
 1. **Home Screen**
 
-  - Navigate to different sections: Activity Calendar, Progress Tracker, Parent Tips, and Notifications.
+    - Navigate to different sections: Activity Calendar, Progress Tracker, Parent Tips, and Notifications.
 2. **Activity Calendar**
 
-  - View weekly activities designed for toddlers.
-  - Each activity displays necessary materials and a brief description.
+    - View weekly activities designed for toddlers.
+    - Each activity displays necessary materials and a brief description.
 3. **Progress Tracker**
 
-  - Add new milestones with titles and deadlines.
-  - Edit or remove existing milestones.
-  - Track your child’s developmental progress over time.
+    - Add new milestones with titles and deadlines.
+    - Edit or remove existing milestones.
+    - Track your child’s developmental progress over time.
 4. **Parent Tips**
 
-  - Access daily tips and articles to support your child’s growth and development.
+    - Access daily tips and articles to support your child’s growth and development.
 5. **Push Notifications**
+     - Receive reminders for scheduled activities and important updates directly to your device.
 
   - Receive reminders for scheduled activities and important updates directly to your device.
