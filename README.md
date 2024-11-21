@@ -1,5 +1,5 @@
 # EarlyChildhoodLearning
-# SPACE for ECE
+## SPACE for ECE
 
 **SPACE for ECE** is an entrepreneurial initiative aimed at consolidating a decade-long experience in Early Childhood Education (ECE) through collaboration with non-profits, informal learning centers, and global clients. The **SpacECE India Foundation** serves as the non-profit arm, focusing specifically on government partnerships to enhance educational outcomes for young children.
 
