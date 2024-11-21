@@ -79,4 +79,3 @@
 5. **Push Notifications**
      - Receive reminders for scheduled activities and important updates directly to your device.
 
-  - Receive reminders for scheduled activities and important updates directly to your device.
